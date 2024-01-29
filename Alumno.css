@@ -1,16 +1,21 @@
-h1{
+h1 {
     text-align: center;
 }
-p{
+
+p {
     font-family: Arial, Helvetica, sans-serif;
 }
-div{
+
+.Imagen {
     align-items: center;
-    text-align: center;
+    text-align: center;   
 }
 img{
     width: 400px;
     height: 400px;
     border-radius: 50%;
-    
+}
+.Lista {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
